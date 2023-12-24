@@ -69,7 +69,6 @@ if(isset($_POST['submitLogin']))
       </div>
       <button type="submit" name="submitLogin" class="btn btn-primary m-3 float-right">Submit</button>
       <div class="clearfix">
-sagarvala
       </div>
     </div>
   </div>
