@@ -1,0 +1,22 @@
+.tbl{border: 3px solid #cdcdcd; width: 1000px;height: 500px;margin: 10px auto;background-image: url('../img/5.png');background-repeat: no-repeat;background-size: 100%;left:50%;top: 50%;position: absolute;
+  transform: translate(-50%,-50%);}
+table tr td:first-child{text-align: right;font-weight: bold;color:darkturquoise}
+#heading{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 10px 5px;
+  color:aqua;
+}
+.form-control:focus{
+  outline: none;
+}
+.dob{width: 30%}
+.form-control{
+  padding: 5px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+#button:hover{background-color: #2f9480}
+#button{background-color:#682f94;font-size: 25px;border-radius: 5px;}
+#table-heading{text-align: center;}
